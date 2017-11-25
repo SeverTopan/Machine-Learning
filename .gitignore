@@ -36,11 +36,10 @@ config.rst
 /.project
 /.pydevproject
 
-# ignore ECE521 files for now
-1. KNN, Linear Regression, Stochastic Gradient Descent
-2. Logistic Regression and Neural Networks
-3. Unsupervised Learning and Probabilistic Models
-4. Inference and Learning on Graphical Models
+# ignore school files for now.
+src
+curated_src
+Assignment*
 
 # ignore data files
 *.csv
