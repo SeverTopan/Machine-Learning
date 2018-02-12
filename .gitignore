@@ -44,6 +44,7 @@ Assignment*
 # ignore data files
 *.csv
 *.xlsx
+*.zip
 
 # checkpoint files
 *.ckpt.*
